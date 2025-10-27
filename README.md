@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DaiW487
-- 👀 I’m interested in "Man!"
-- 🌱 I’m currently learning "What can I say"
-- 💞️ I’m looking to collaborate on "Mamba out"
-- 📫 How to reach me 1119846227@qq.com
+- 👋 Hi, I’m Wei Dai
+- 👀 I’m interested in Deep Learning, Multimodal
+- 🌱 I’m currently an undergraduate of XJTU
+- 📫 How to reach me dw0422@stu.xjtu.edu.cn
 - 😄 Pronouns: 0
 - ⚡ Fun fact: 0
 
